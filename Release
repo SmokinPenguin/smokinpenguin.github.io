@@ -1,8 +1,8 @@
-Origin: My Private Repo
-Label: My Repo
+Origin: Smokin Penguin's Repo
+Label: Smokin Penguin's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My Repo
+Description: I really don't know what I'm doing here but hey I will learn as I go!
