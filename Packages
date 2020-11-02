@@ -1,0 +1,13 @@
+Package: com.alex.halloween2020
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Alex
+Filename: ./ThemeForCydia.deb
+Size: 5387580
+MD5sum: f62138530eb896d7e614e164f7055011
+SHA1: f4aff6a8ac2c1a9d92034474eebe155731c6e5f8
+SHA256: 98d0e475bdddcf15264420b227901570945786a34616af408d1b760bf92e6715
+Section: Themes
+Description: Spoopy Theme
+Author: Alex
+Name: Halloween 2020
